@@ -1,5 +1,7 @@
 # ItemInventory
 .NET Core 3.1 Rest API for store inventory management. The primary e-commerce store supported by the API will be Prestashop. The application will monitor e.g. product inventory and inform you about low status via sms/email.
+![Api](https://user-images.githubusercontent.com/82265745/114302630-80905e80-9ae7-11eb-8cc1-6d5dda5a0ad4.PNG)
+
 
 ## Backend technology
 1. .NET Core 3.1
