@@ -16,3 +16,7 @@
 ## API documentation
 
 The API includes documented all available routings. After starting, just go to the address e.g.  [https://localhost:44377/swagger/index.html](https://localhost:44334/swagger/index.html) where a detailed description of each API routing will be available.
+
+## DB Installation
+
+Run the file InventryDB_scripts.sql to create DB and the tables.
